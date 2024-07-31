@@ -26,3 +26,8 @@
 ```sh
   bash ./build.sh
 ```
+
+### Output
+You will receive this html file
+
+![image](./screenshot.png)
