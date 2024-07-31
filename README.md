@@ -18,7 +18,7 @@
 
 2. **Navigate to the project directory**:
 
-   ```sh
+  ```sh
    cd freemarker-simple-example
   ```
 3. **Run build.sh bash**:
